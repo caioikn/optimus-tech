@@ -1,0 +1,52 @@
+.depoimento {
+    background: rgba(195, 25, 25, 0.03);
+    border-radius: 16px;
+    margin: 0 auto 96px auto;
+    padding: 0px 80px 64px 80px;
+    text-align: center;
+    width: 1216px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.depoimento-texto,
+.depoimento-autor {
+    display: flex;
+    flex-direction: column;
+}
+
+.depoimento-texto {
+    gap: 16px;
+}
+
+.depoimento-texto__titulo {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vermelho);
+    margin-top: 64px;
+}
+
+.depoimento-texto__texto {
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: -0.72px;
+}
+
+.depoimento-autor__imagem {
+    width: 5%;
+    margin: 0 auto;
+}
+
+.depoimento-autor__nome {
+    font-weight: 500;
+    line-height: 24px;
+    margin-top: 16px;
+}
+
+.depoimento-autor__cargo {
+    font-size: 14px;
+    color: var(--cinza-claro);
+    line-height: 20px;
+}
