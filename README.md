@@ -1,4 +1,4 @@
-## Projeto OptimusTech - 7 Days of Code
+# OptimusTech
 Criação de uma página real durante 7 dias utilizando conceitos de HTML e CSS, baseando-me num layout enviado pelo Figma.
 
 ![image](https://github.com/caioikn/optimus-tech/assets/28030999/9aa30759-2629-466e-a137-047fcdd3c2a2)
