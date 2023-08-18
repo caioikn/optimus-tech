@@ -4,13 +4,14 @@
 @import url("./talentos.css");
 @import url("./vagas.css");
 @import url("./depoimento.css");
+@import url("./rodape.css");
 
 :root {
     --branco: #FFFFFF;
     --cinza-claro: #667085;
     --cinza-escuro: #101828;
-    --vermelho: #8E2424;
     --cinza-borda: #EAECF0;
+    --vermelho: #8E2424;
     --fundo-botao: rgba(142, 36, 36, 0.05);
 
     --fonte-principal: Inter, sans-serif;
