@@ -13,7 +13,7 @@ Navegação padrão de um site, porém sem a interação, já que o intuito é p
   * Grid
 
 ## 📁 Acesso ao projeto
-Você pode acompanhar o desenvolvimento do projeto clicando [aqui](https://caioikn.github.io/optimus-tech/).
+Você pode acompanhar o projeto finalizado clicando [aqui](https://caioikn.github.io/optimus-tech/).
 
 ## 🛠️ Abrir e rodar o projeto
 Para abrir e rodar o projeto, basta baixar os arquivos e abrir o `index.html` no navegador.
