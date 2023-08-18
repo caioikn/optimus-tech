@@ -10,7 +10,6 @@
 }
 
 .cabecalho__titulo {
-    color: var(--cinza-escuro);
     font-size: 48px;
     font-weight: 600;
     margin: 0.5em 0 0.75em 0;
