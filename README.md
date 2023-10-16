@@ -1,24 +1,20 @@
 # OptimusTech
-Criação de uma página real durante 7 dias utilizando conceitos de HTML e CSS, baseando-me num layout enviado pelo Figma.
+
+<p align="center">
+     <img loading="lazy" alt="Static Badge" src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-blue?style=for-the-badge">
+</p>
+
+Desafio pego no site do **7 days Of Code**.
+
+Neste projeto, foi criada uma página completa de "Vagas" para uma empresa fictícia, usando HTML e CSS.
 
 ![image](https://github.com/caioikn/optimus-tech/assets/28030999/9aa30759-2629-466e-a137-047fcdd3c2a2)
 
-## 🔨 Funcionalidades do projeto
-Navegação padrão de um site, porém sem a interação, já que o intuito é praticar a essência do Front-end e os conceitos de HTML e CSS.
+## Tecnologias utilizadas
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## ✔️ Técnicas e tecnologias utilizadas
-* `HTML`
-* `CSS`
-  * Flexbox
-  * Grid
+## Acesso ao projeto
+Você pode acessar o projeto clicando [aqui](https://caioikn.github.io/optimus-tech/).
 
-## 📁 Acesso ao projeto
-Você pode acompanhar o projeto finalizado clicando [aqui](https://caioikn.github.io/optimus-tech/).
-
-## 🛠️ Abrir e rodar o projeto
-Para abrir e rodar o projeto, basta baixar os arquivos e abrir o `index.html` no navegador.
-
-## 📚 Mais informações do curso
-Desafio pego no site da [7 Days of Code](https://7daysofcode.io/).
-
-<h2>Feito por <a href="https://www.linkedin.com/in/caioikena/">Caio Ikena</a>.</h2>
+## Abrir e rodar o projeto
+Para abrir e rodar o projeto, basta baixar os arquivos clicando [aqui](https://github.com/caioikn/optimus-tech/archive/main/optimus-tech.zip) e abrir o `index.html` no navegador.
