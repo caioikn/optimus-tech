@@ -17,4 +17,8 @@ Neste projeto, foi criada uma página completa de "Vagas" para uma empresa fict�
 Você pode acessar o projeto clicando [aqui](https://caioikn.github.io/optimus-tech/).
 
 ## Abrir e rodar o projeto
-Para abrir e rodar o projeto, basta baixar os arquivos clicando [aqui](https://github.com/caioikn/optimus-tech/archive/main/optimus-tech.zip) e abrir o `index.html` no navegador.
+1. Clone este repositório em sua máquina local ou baixe os arquivos clicando [aqui](https://github.com/caioikn/optimus-tech/archive/main/optimus-tech.zip).
+2. Abra o arquivo `index.html` em um navegador da web.
+
+---
+**Desenvolvido por 💙 [Caio](https://www.linkedin.com/in/caioikena/)**.
