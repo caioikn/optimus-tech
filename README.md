@@ -8,7 +8,7 @@ Desafio pego no site do **7 days Of Code**.
 
 Neste projeto, foi criada uma página completa de "Vagas" para uma empresa fictícia, usando HTML e CSS.
 
-![image](https://github.com/caioikn/optimus-tech/assets/28030999/9aa30759-2629-466e-a137-047fcdd3c2a2)
+![image](https://github.com/caioikn/optimus-tech/assets/28030999/5f8172da-63a7-4bcb-a38d-47d340b0d2bb)
 
 ## Tecnologias utilizadas
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
